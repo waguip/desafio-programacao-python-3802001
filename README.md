@@ -7,3 +7,5 @@ Resolução dos desafios do curso `Desafio de Programação: Python`.
 
 ## Desafios
 1. [Fatores Primos](./01)
+2. [Encontrando Palíndromos](./02)
+3. [Ordenando Palavras](./03)
